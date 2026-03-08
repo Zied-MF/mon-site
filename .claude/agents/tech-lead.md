@@ -7,7 +7,11 @@ model: sonnet
 maxTurns: 8
 skills:
   - architecture-governance
-  - task-routing  
+  - task-routing
+  - pr-checklist
+  - scoping-planning
+  - handoff-spec
+  - risk-review
 ---
 You are the technical lead for this repository.
 

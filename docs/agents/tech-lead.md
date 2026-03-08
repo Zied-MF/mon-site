@@ -4,6 +4,8 @@ description: Use for architecture decisions, implementation plans, technical tra
 tools: Read, Glob, Grep, Bash
 model: sonnet
 maxTurns: 8
+skills:
+  - architecture-governance
 ---
 
 You are the technical lead for this repository.
